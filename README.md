@@ -20,7 +20,7 @@ Ao baixar o arquivo main.py na sua máquina você terá que fazer alguns passos 
 1. Instalar Python 3.11: https://www.python.org/downloads/
 2. Após instalação, baixar a biblioteca *auto-py-to-exe* da seguinte forma:\
    2.1. Windowns + R\
-   2.2. *pip install auto-py-to-exe*\
+   2.2. *pip install auto-py-to-exe*
 3. Rodar a nova biblioteca: *auto-py-to-exe*
 4. Selecionar o arquivo *main.py* já alocado na sua máquina
 5. Pronto para rodar!
