@@ -17,7 +17,7 @@ Devido ao tamanho do arquivo (27kb) não foi possível anexar o executável aqui
 
 ## Como transformar o "*main.py*" em executável:
 Ao baixar o arquivo main.py na sua máquina você terá que fazer alguns passos para conseguir o executável:
-1. Instalar Python 3.11
+1. Instalar Python 3.11: https://www.python.org/downloads/
 2. Após instalação, baixar a biblioteca *auto-py-to-exe* da seguinte forma:
    2.1. Windowns + R
    2.2. *pip install auto-py-to-exe*
